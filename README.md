@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/welcome.gif?raw=true" alt="banner"/>
-</p>
-<p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner2.gif?raw=true" alt="banner2"/>
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner2.gif?raw=true" alt="banner2" width="800"/>
 </p>
 
 
