@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <p align="center">
   Full-Stack Developer | Java & Spring Boot | Public Data Innovator
 </p>
+<p align="center">
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner.png?raw=true" alt="Welcome Banner" />
+</p>
+<p align="center">
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="300"/>
+</p>
 
 ---
 
