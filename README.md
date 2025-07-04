@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner.png?raw=true" alt="Welcome Banner" />
-</p>
-
 <h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
 <p align="center">
   Full-Stack Developer | Java & Spring Boot | Public Data Innovator
