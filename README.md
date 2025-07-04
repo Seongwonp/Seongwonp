@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 <p align="center">
   Full-Stack Developer | Java & Spring Boot | Public Data Innovator
 </p>
----
-
-## 👋 About Me
 
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="300"/>
 </p>
+
+## 👋 About Me
 
 - 🎓 Studying Computer Engineering at Konkuk University (GPA: 4.1/4.5)
 - 🧠 Completed a 900-hour full-stack bootcamp focused on public data integration
