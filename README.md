@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="700" hight="700"/>
-</p>
-
-
-
 ---
 
 ## 📂 Featured Projects
+
+
+<p align="center">
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="400"/>
+</p>
+
 
 ### 📊 공공데이터 기반 웹 서비스
 - **Role**: Backend Developer & Team Lead
