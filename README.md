@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="400"/>
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/welcome.gif?raw=true" alt="banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
@@ -63,6 +63,11 @@ Here are some ideas to get you started:
  
 
 ---
+
+<p align="center">
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="400"/>
+</p>
+
 
 ## 📂 Featured Projects
 
