@@ -76,24 +76,73 @@ Here are some ideas to get you started:
 ## 📂 Featured Projects
 
 <details>
-<summary>📊 공공데이터 기반 웹 서비스</summary>
+<summary>⚙️ 리눅스 기반 시스템 프로그래밍 실습(C)</summary>
 
+- **Role**: System-level Developer (학습 프로젝트)  
+- **Tech**: C, Linux, POSIX, Shell  
+- **Highlights**:  
+  - fork(), exec(), wait()를 활용한 프로세스 생성 및 제어 실습  
+  - signal(), kill()을 활용한 시그널 기반 통신 구현  
+  - open(), read(), write(), lseek() 등 시스템 호출을 이용한 파일 입출력 처리  
+  - Shell script를 이용해 디렉터리 백업 및 로그 자동화 프로그램 개발  
+  - Linux 환경에서 makefile 작성 및 gdb를 이용한 디버깅 능력 향상
+</details>
+
+<details>
+<summary>📊 공공데이터 기반 웹 서비스(Spring Boot)</summary>
 - **Role**: Backend Developer & Team Lead  
 - **Tech**: Java, Spring Boot, JSP, jQuery, MariaDB  
 - **Highlights**:  
   - 설계부터 API 명세, DB 연동, 배포까지 전 주기 주도  
   - 외부 API 응답 지연 문제를 비동기 처리로 해결  
   - Git & Notion 기반 협업 및 문서화  
-
 </details>
 
 <details>
-<summary>🎮 콘솔 기반 팩맨 게임</summary>
+<summary>🅿️ JSP 기반 스마트 주차관리 시스템(JSP Servlet)</summary>
+
+- **Role**: Full-stack Developer & Git 협업 리더  
+- **Tech**: Java, JSP, Servlet, JDBC, MySQL, HTML/CSS/JS, jQuery  
+- **Highlights**:  
+  - 차량 입출차, 요금 계산, 할인 정책, 정기권 등 기능 구현  
+  - 로그인 인증 및 관리자 권한 분리 필터 적용  
+  - 실시간 주차 현황 표시 및 장기 주차 알림 기능 구현  
+  - 공지사항, 마이페이지, 관리자 대시보드 등 웹 서비스 전반 설계  
+  - Git 브랜치 전략 및 팀 협업 가이드 정리 (IntelliJ 기반)  
+  - 확장성 고려 (Spring Boot 전환, REST API 분리, 실시간 대시보드 제안)
+</details>
+
+<details>
+<summary>🚀 콘솔 기반 슈팅 게임 (C)</summary>
+
+- **Role**: Solo Developer  
+- **Tech**: C, Windows API (`windows.h`, `stdbool.h`)  
+- **Highlights**:  
+  - Windows 콘솔 환경에서 ASCII 기반 슈팅 게임 구현  
+  - `GetAsyncKeyState()` 활용한 실시간 입력 처리  
+  - 적군 랜덤 생성, 총알 발사, 충돌 판정, 점수 시스템 등 완성도 높은 기능 구성  
+  - 시작화면, 도움말, 게임오버 연출 포함  
+  - 깔끔한 소스 코드 분리 구조 (`.h`, `.c`, 메인 루프 모듈화)  
+  - 캐릭터 잔상 문제 해결 및 메모리 최적화 수행  
+</details>
+
+<details>
+<summary>🎮 콘솔 기반 팩맨 게임(JAVA)</summary>
 
 - **Tech**: Java, GUI, 이벤트 처리  
 - **Highlights**:  
   - J프레임과 버튼을 활용한 GUI 게임 구현  
 
+</details>
+
+<details>
+<summary>🎯 임베디드 제어 프로젝트 (라즈베리파이 + 파이썬)</summary>
+
+- **Tech**: Python, Raspberry Pi, Arduino, GPIO, 센서 데이터 제어  
+- **Highlights**:  
+  - 고등학교 컴퓨터 동아리 활동 중, 라즈베리파이 기반 센서 제어 시스템 구현  
+  - 실시간 데이터 처리 및 하드웨어와의 통신 로직 설계 경험  
+  - 직접 하드웨어 세팅 및 배선 구성을 통한 임베디드 기초 역량 확보  
 </details>
 
 
