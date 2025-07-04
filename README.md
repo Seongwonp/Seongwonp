@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 👋 About Me
 
 - 🎓 Studied Computer Engineering at Daegu Catholic University (up to 2nd year, 2nd semester), GPA: 4.1 / 4.5
-  -> ⭐️ Planning to transfer to Konkuk University to continue my studies
+- -> ⭐️ Planning to transfer to Konkuk University to continue my studies
 - 🧠 Completed a 900-hour full-stack bootcamp focused on public data integration
 - 🛠️ Experienced in Java, Spring Boot, JSP, JavaScript, React, and MariaDB
 - 🧩 Passionate about building scalable backend systems and intuitive frontend interfaces
