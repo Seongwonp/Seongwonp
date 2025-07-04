@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner.png?raw=true" alt="Welcome Banner" />
 </p>
-<p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="500" hight="500"/>
-</p>
 
 <h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
 <p align="center">
@@ -36,9 +33,12 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h2>🛠️ Tech Stack</h2>
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="60"/>
+</div>
 
-### Languages & Frameworks
+### Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -46,12 +46,13 @@ Here are some ideas to get you started:
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-6A5ACD?style=flat)
 
-### Tools & Platforms
+### Tools & Platforms  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 ---
 
