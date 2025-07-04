@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Seongwonp/Seongwonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
-<p align="center">
-  Full-Stack Developer | Java & Spring Boot | Public Data Innovator
-</p>
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner.png?raw=true" alt="Welcome Banner" />
 </p>
 <p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="300"/>
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="500" hight="500"/>
 </p>
 
+<h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
+<p align="center">
+  Full-Stack Developer | Java & Spring Boot | Public Data Innovator
+</p>
 ---
 
 ## 👋 About Me
