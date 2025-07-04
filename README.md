@@ -32,28 +32,28 @@ Here are some ideas to get you started:
 - 📫 Contact: swp20138993@gmail.com
 
 ---
+
 ## 🛠️ Tech Stack
 
-| 기술 스택 | 🐱 |
-|-----------|----|
-|  
-**🧩 Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white)  
-![Servlet](https://img.shields.io/badge/Servlet-6A5ACD?style=flat)  
+### 🧩 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-6A5ACD?style=flat)
 
-**🛠️ Tools & Platforms**  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-|  
-<img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" width="150"/>  
-|
+### 🛠️ Tools & Platforms  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+<p align="center">
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="700" hight="700"/>
+</p>
+
 
 
 ---
