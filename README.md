@@ -98,15 +98,19 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-<summary>🧾 <strong>Certifications (click to expand)</strong></summary>
+## 🧾 Certifications
 
--  컴퓨터활용능력 1급 (2025)  
--  네트워크전문가 1급 (2025)  
--  리눅스 마스터 2급 (2025)  
--  SQLD (예정)  
--  정보처리기사 (예정)  
--  PCCP Level 3 (예정)  
+<details>
+<summary>📜 Certifications: Achieved & Planned</summary>
+
+| 자격증명               | 상태       | 연도   |
+|------------------------|------------|--------|
+| 컴퓨터활용능력 1급     | 취득 예정   | 2025   |
+| 네트워크전문가 1급     | 취득 예정   | 2025   |
+| 리눅스 마스터 2급      | 취득 예정   | 2025   |
+| SQLD                   | 예정       | -      |
+| 정보처리기사           | 예정       | -      |
+| PCCP Level 3           | 예정       | -      |
 
 </details>
 
