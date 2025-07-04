@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
+  <div width="400> </div>
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="400"/>
 </p>
 
