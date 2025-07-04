@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 - 🎓 Studied Computer Engineering at Daegu Catholic University (up to 2nd year, 2nd semester), GPA: 4.1 / 4.5
 - -> ⭐️ Planning to transfer to Konkuk University to continue my studies
-- 🧠 Completed a 900-hour full-stack bootcamp focused on public data integration
-- 🛠️ Experienced in Java, Spring Boot, JSP, JavaScript, React, and MariaDB
-- 🧩 Passionate about building scalable backend systems and intuitive frontend interfaces
-- 🧑‍🤝‍🧑 Strong believer in collaboration, documentation, and clean architecture
+-  Completed a 900-hour full-stack bootcamp focused on public data integration
+- 🛠 Experienced in Java, Spring Boot, JSP, JavaScript, React, and MariaDB
+-  Passionate about building scalable backend systems and intuitive frontend interfaces
+-  Strong believer in collaboration, documentation, and clean architecture
 - 📫 Contact: swp20138993@gmail.com
 
 ---
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 ## 🧾 Certifications
 
 <details>
-<summary>📜 Certifications: Achieved & Planned</summary>
+<summary>Certifications: Achieved & Planned (Clik Me! 🤗) </summary>
 
 
 | 자격증명               | 상태       | 연도   |
