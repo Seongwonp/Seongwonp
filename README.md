@@ -65,17 +65,27 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Projects
 
-### 📊 공공데이터 기반 웹 서비스
-- **Role**: Backend Developer & Team Lead
-- **Tech**: Java, Spring Boot, JSP, jQuery, MariaDB
-- **Highlights**:
-  - 설계부터 API 명세, DB 연동, 배포까지 전 주기 주도
-  - 외부 API 응답 지연 문제를 비동기 처리로 해결
-  - Git & Notion 기반 협업 및 문서화
+<details>
+<summary>📊 공공데이터 기반 웹 서비스</summary>
 
-### 🎮 콘솔 기반 팩맨 게임
-- **Tech**: Java, GUI, 이벤트 처리
-- **Highlights**: J프레임과 버튼을 활용한 GUI 게임 구현
+- **Role**: Backend Developer & Team Lead  
+- **Tech**: Java, Spring Boot, JSP, jQuery, MariaDB  
+- **Highlights**:  
+  - 설계부터 API 명세, DB 연동, 배포까지 전 주기 주도  
+  - 외부 API 응답 지연 문제를 비동기 처리로 해결  
+  - Git & Notion 기반 협업 및 문서화  
+
+</details>
+
+<details>
+<summary>🎮 콘솔 기반 팩맨 게임</summary>
+
+- **Tech**: Java, GUI, 이벤트 처리  
+- **Highlights**:  
+  - J프레임과 버튼을 활용한 GUI 게임 구현  
+
+</details>
+
 
 ---
 
@@ -88,14 +98,18 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧾 Certifications
+<details>
+<summary>🧾 <strong>Certifications (click to expand)</strong></summary>
 
-- 🧠 컴퓨터활용능력 1급 (2025)
-- 🌐 네트워크전문가 1급 (2025)
-- 🐧 리눅스 마스터 2급 (2025)
-- 🧮 SQLD (예정)
-- 🧰 정보처리기사 (예정)
-- 🧑‍💻 PCCP Level 3 (예정)
+-  컴퓨터활용능력 1급 (2025)  
+-  네트워크전문가 1급 (2025)  
+-  리눅스 마스터 2급 (2025)  
+-  SQLD (예정)  
+-  정보처리기사 (예정)  
+-  PCCP Level 3 (예정)  
+
+</details>
+
 
 ---
 
