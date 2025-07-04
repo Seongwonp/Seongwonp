@@ -33,37 +33,57 @@ Here are some ideas to get you started:
 
 ---
 
-<table>
-  <tr>
-    <!-- 왼쪽 상단: Languages & Frameworks -->
-    <td valign="top" width="70%">
-      <h3>🛠️ Languages & Frameworks</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Servlet-6A5ACD?style=flat"/>
-      </p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h2>🛠️ Tech Stack</h2>
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="60"/>
+</div>
 
-      <h3>🧰 Tools & Platforms</h3>
-      <p>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-      </p>
-    </td>
+### Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-6A5ACD?style=flat)
 
-    <!-- 오른쪽: 고양이 GIF (2행 병합) -->
-    <td valign="middle" align="center" width="30%">
-      <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="150"/>
-    </td>
-  </tr>
-</table>
+### Tools & Platforms  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
+  <!-- 왼쪽: 기술 스택 -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3>🛠️ Tech Stack</h3>
+
+  ### 🧩 Languages & Frameworks  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white)
+  ![Servlet](https://img.shields.io/badge/Servlet-6A5ACD?style=flat)
+
+  ### 🛠️ Tools & Platforms  
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+  </div>
+
+  <!-- 오른쪽: 고양이 GIF -->
+  <div style="flex: 0 0 200px; text-align: center;">
+    <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="180"/>
+  </div>
+
+</div>
 
 
 ---
