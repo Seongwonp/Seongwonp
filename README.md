@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/welcome.gif?raw=true" alt="banner"/>
 </p>
+<p align="center">
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner2.gif?raw=true" alt="banner2"/>
+</p>
+
 
 <h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
 <p align="center">
@@ -65,7 +69,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="800" height="400"/>
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/codingCat.gif?raw=true" alt="Coding Cat" width="800" height="500"/>
 </p>
 
 
