@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ### 🧱 Frameworks & Libraries  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![MyBatis](https://img.shields.io/badge/MyBatis-gray?style=flat&logoColor=white)](https://mybatis.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
 [![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white)](https://tomcat.apache.org/)
