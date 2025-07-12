@@ -1,39 +1,23 @@
-<!--
-**Seongwonp/Seongwonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner1.gif?raw=true" alt="banner1" width="800"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner2.gif?raw=true" alt="banner2" width="800"/>
-</p>
-
 <h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
 <p align="center">
   Full-Stack Developer | Java & Spring Boot | Public Data Innovator
 </p>
+<p align="center">
+  <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner2.gif?raw=true" alt="banner2" width="800"/>
+</p>
 
 ## 👋 About Me
 
-- 🎓 Studied Computer Engineering at Daegu Catholic University (up to 2nd year, 2nd semester), GPA: 4.1 / 4.5
-- -> ⭐️ Planning to transfer to Konkuk University to continue my studies
--  Completed a 900-hour full-stack bootcamp focused on public data integration
-- 🛠 Experienced in Java, Spring Boot, JSP, JavaScript, React, and MariaDB
--  Passionate about building scalable backend systems and intuitive frontend interfaces
--  Strong believer in collaboration, documentation, and clean architecture
-- 📫 Contact: swp20138993@gmail.com
+- 🎓 Completed 4 semesters of Computer Engineering at **Daegu Catholic University** (GPA: 4.1 / 4.5)  
+- ⭐️ Preparing to transfer to **Konkuk University** to continue my studies  
+-  Finished a 900-hour full-stack bootcamp focused on **public data integration**  
+-  Skilled in Java, Spring Boot, JSP, JavaScript, React, and MariaDB  
+-  Passionate about building **scalable backend systems** and **intuitive frontend interfaces**  
+-  Dedicated to **collaboration**, **documentation**, and **clean architecture**  
+- 📫 Reach me at: `swp20138993@gmail.com`
 
 ---
 
@@ -91,6 +75,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>📊 공공데이터 기반 웹 서비스(Spring Boot)</summary>
+
 - **Role**: Backend Developer & Team Lead  
 - **Tech**: Java, Spring Boot, JSP, jQuery, MariaDB  
 - **Highlights**:  
@@ -161,8 +146,8 @@ Here are some ideas to get you started:
 ## 🧾 Certifications
 
 <details>
-<summary>Certifications: Achieved & Planned (Clik Me! 🤗) </summary>
-
+<summary>Certifications: Achieved & Planned (Click Me! 🤗) </summary>
+ 
 
 | 자격증명               | 상태       | 연도   |
 |------------------------|------------|--------|
