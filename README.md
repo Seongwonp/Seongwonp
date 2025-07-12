@@ -22,9 +22,9 @@
 - 📫 Reach me at: `swp20138993@gmail.com`
 
 ---
-
-### 🧩 Languages  
+ 
 <p align="center">
+  ### 🧩 Languages 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -35,9 +35,9 @@
 </p>
 
 ---
-
-### 🧱 Frameworks & Libraries  
+  
 <p align="center">
+  ### 🧱 Frameworks & Libraries
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-gray?style=flat&logoColor=white" />
