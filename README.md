@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner1.gif?raw=true" alt="banner1" width="800"/>
 </p>
----
+
 <h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
 <p align="center">
   Full-Stack Developer | Java & Spring Boot | Public Data Innovator
 </p>
----
+
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner2.gif?raw=true" alt="banner2" width="800"/>
 </p>
