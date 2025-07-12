@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner1.gif?raw=true" alt="banner1" width="800"/>
 </p>
+---
 <h1 align="center">Hi, I'm Seongwon Park 👨‍💻</h1>
 <p align="center">
   Full-Stack Developer | Java & Spring Boot | Public Data Innovator
 </p>
+---
 <p align="center">
   <img src="https://github.com/Seongwonp/Seongwonp/blob/main/banner2.gif?raw=true" alt="banner2" width="800"/>
 </p>
@@ -29,27 +31,41 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)](https://www.w3schools.com/xml/)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+
+---
 
 ### 🧱 Frameworks & Libraries  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![MyBatis](https://img.shields.io/badge/MyBatis-gray?style=flat&logoColor=white)](https://mybatis.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
 [![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white)](https://tomcat.apache.org/)
 [![Servlet](https://img.shields.io/badge/Servlet-6A5ACD?style=flat)](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+
+---
 
 ### 🛢️ Databases  
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
+---
+
 ### 🧰 Tools & Platforms  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
- 
+---
+
+### 💻 Development Environments  
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-1EAA59?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 ---
 
