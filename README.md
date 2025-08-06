@@ -143,21 +143,23 @@
 </details>
 
 <details>
-<summary>📊 공공데이터 기반 웹 서비스(Spring Boot)</summary>
+<summary>📟 스마트 키오스크 & 관리자 시스템 (Spring Boot + React)</summary>
 
-- **Role**: Backend Developer & Team Lead  
-- **Tech**: Java, Spring Boot, JSP, jQuery, MariaDB  
+- **Role**: Fullstack Developer  
+- **Tech**: Java, Spring Boot, React, MariaDB, MyBatis, JPA, Thymeleaf, Axios, Chart.js, AOS  
 - **Highlights**:  
-  - 설계부터 API 명세, DB 연동, 배포까지 전 주기 주도  
-  - 외부 API 응답 지연 문제를 비동기 처리로 해결  
-  - Git & Notion 기반 협업 및 문서화  
+  - 사용자용 키오스크 프론트와 관리자 페이지를 분리 구성  
+  - Spring Boot REST API 기반으로 유저-관리자 간 실시간 연동  
+  - 판매 현황, 재고/옵션 관리, 매출 통계까지 통합 구현  
+  - JPA + MyBatis 병행 활용으로 유연하고 효율적인 DB 처리  
+  - AOS, Chart.js 등 라이브러리로 시각화 및 사용자 경험 향상  
 </details>
 
 <details>
 <summary>🅿️ JSP 기반 스마트 주차관리 시스템(JSP Servlet)</summary>
 
 - **Role**: Full-stack Developer & Git 협업 리더  
-- **Tech**: Java, JSP, Servlet, JDBC, MySQL, HTML/CSS/JS, jQuery  
+- **Tech**: Java, JSP, Servlet, JDBC, MariaDB, HTML/CSS/JS, jQuery  
 - **Highlights**:  
   - 차량 입출차, 요금 계산, 할인 정책, 정기권 등 기능 구현  
   - 로그인 인증 및 관리자 권한 분리 필터 적용  
@@ -191,13 +193,14 @@
 </details>
 
 <details>
-<summary>🎯 임베디드 제어 프로젝트 (라즈베리파이 + 파이썬)</summary>
+<summary>🗣️ 라즈베리파이 기반 음성인식 AI 시스템</summary>
 
-- **Tech**: Python, Raspberry Pi, Arduino, GPIO, 센서 데이터 제어  
+- **Tech**: Python, Raspberry Pi, SpeechRecognition, Microphone Input, GPIO  
 - **Highlights**:  
-  - 고등학교 컴퓨터 동아리 활동 중, 라즈베리파이 기반 센서 제어 시스템 구현  
-  - 실시간 데이터 처리 및 하드웨어와의 통신 로직 설계 경험  
-  - 직접 하드웨어 세팅 및 배선 구성을 통한 임베디드 기초 역량 확보  
+  - 고등학교 동아리 활동 중 음성 명령 기반 하드웨어 제어 시스템 개발  
+  - 마이크 입력으로 특정 명령을 인식하고 LED 및 모터 제어  
+  - Raspberry Pi와 센서 연동을 통해 간단한 AI 인터페이스 구현  
+  - 음성 인식 오류 대응 로직 및 사용자 피드백 기능 적용  
 </details>
 
 ---
