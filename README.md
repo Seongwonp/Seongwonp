@@ -35,7 +35,7 @@
   <h3>🧩 Languages</h3>
   <p>
     <a href="https://www.java.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
     </a>
     <a href="https://en.cppreference.com/w/c" target="_blank">
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
