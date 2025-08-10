@@ -63,92 +63,92 @@
   <h3>🧩 Languages (언어)</h3>
   <p>
     <a href="https://www.java.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
     </a>
     <a href="https://en.cppreference.com/w/c" target="_blank">
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     </a>
     <a href="https://www.python.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </a>
     <a href="https://en.wikipedia.org/wiki/XML" target="_blank">
-      <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white" />
+      <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
     </a>
   </p>
 
   <h3>🧱 Frameworks & Libraries (프레임워크 및 라이브러리)</h3>
   <p>
     <a href="https://spring.io/projects/spring-boot" target="_blank">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
     </a>
     <a href="https://hibernate.org/orm/" target="_blank">
-      <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
     </a>
     <a href="https://mybatis.org/" target="_blank">
-      <img src="https://img.shields.io/badge/MyBatis-gray?style=flat&logo=mybatis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MyBatis-gray?style=for-the-badge&logo=mybatis&logoColor=white" />
     </a>
     <a href="https://tomcat.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=apachetomcat&logoColor=white" />
+      <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=apachetomcat&logoColor=white" />
     </a>
     <a href="https://docs.oracle.com/javaee/7/api/javax/servlet/package-summary.html" target="_blank">
-      <img src="https://img.shields.io/badge/Servlet-6A5ACD?style=flat" />
+      <img src="https://img.shields.io/badge/Servlet-6A5ACD?style=for-the-badge" />
     </a>
     <a href="https://reactjs.org/" target="_blank">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     </a>
     <a href="https://jquery.com/" target="_blank">
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     </a>
   </p>
 
   <h3>🛢️ Databases (데이터베이스)</h3>
   <p>
     <a href="https://mariadb.org/" target="_blank">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
     </a>
   </p>
 
   <h3>🧰 Tools & Platforms (도구 및 플랫폼)</h3>
   <p>
     <a href="https://git-scm.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </a>
     <a href="https://www.linux.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </a>
     <a href="https://www.notion.so/" target="_blank">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     </a>
     <a href="https://www.figma.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     </a>
   </p>
 
   <h3>💻 Development Environments (개발 환경)</h3>
   <p>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     </a>
     <a href="https://developer.apple.com/xcode/" target="_blank">
-      <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
     </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-      <img src="https://img.shields.io/badge/PyCharm-1EAA59?style=flat&logo=pycharm&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyCharm-1EAA59?style=for-the-badge&logo=pycharm&logoColor=white" />
     </a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">
-      <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </a>
   </p>
 </div>
