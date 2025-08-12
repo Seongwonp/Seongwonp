@@ -15,6 +15,12 @@
 
 ---
 
+## 📌 Portfolio & Links (포트폴리오 및 링크)
+
+*   🗂️ Web Portfolio: [바로가기](https://seongwonp-portfolio.vercel.app/)
+  
+---
+
 ## 💡 About Me (소개)
 
 *   🎓 **대구가톨릭대학교** 컴퓨터공학 전공 4학기 수료 (GPA: 4.1 / 4.5)
@@ -266,11 +272,5 @@ _(Raspberry Pi-based system that recognizes voice commands via microphone input 
 | PCCP Level 3           | 예정       | -      |
 </details>
 
----
 
-## 📌 Portfolio & Links (포트폴리오 및 링크)
-
-*   🗂️ Notion Portfolio: [바로가기](https://www.notion.so/1d0d109330638013ba09e4637a9fe1c2)
-    *   _(`Notion Portfolio: [Link]`)_
-
----
+--- 
