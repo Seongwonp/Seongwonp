@@ -42,22 +42,23 @@
 
 ## 📈 GitHub Stats (GitHub 통계)
 
-<!-- 일반 통계 및 주력 언어 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seongwonp&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongwonp&layout=compact&theme=tokyonight" height="150" alt="Top Languages" /> 
-</p>
+## 📊 활동 통계
 
-<!-- 커밋 스트릭 및 트로피 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seongwonp&theme=tokyonight" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Seongwonp&theme=gruvbox" height="150" alt="GitHub Trophy" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seongwonp&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongwonp&layout=compact&theme=tokyonight)
 
-<!-- 활동 그래프 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seongwonp&theme=dracula" height="200" alt="Activity Graph" />
-</p>
+---
+
+## 🔥 커밋 스트릭 & 트로피
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Seongwonp&theme=tokyonight)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Seongwonp&theme=gruvbox)
+
+---
+
+## 📈 활동 그래프
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seongwonp&theme=dracula)
 
 ---
 
