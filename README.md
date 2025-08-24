@@ -17,7 +17,7 @@
 
 ## 📌 Portfolio & Links (포트폴리오 및 링크)
 
-*   🗂️ Web Portfolio: <a href="https://seongwonp-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">바로가기</a>
+*   🗂 Web Portfolio:  🌐 [웹 포트폴리오](https://seongwonp-portfolio.vercel.app/)
   
 ---
 
