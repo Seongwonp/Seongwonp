@@ -25,11 +25,11 @@
 
 *   🎓 **대구가톨릭대학교** 컴퓨터공학 전공 4학기 수료 (GPA: 4.1 / 4.5)
     *   _(Completed 4 semesters of Computer Engineering at **Daegu Catholic University** (GPA: 4.1 / 4.5))_
-*   ⭐️ **건국대학교** 편입 준비 중
+*   ⭐️ 편입 준비 중
     *   _(Preparing to transfer to **Konkuk University**)_
 *   공공데이터 통합 기반 **900시간 풀스택 부트캠프** 수료
     *   _(Finished a 900-hour full-stack bootcamp focused on **public data integration**)_
-*   Java, Spring Boot, JSP, JavaScript, React, MariaDB에 능숙함
+*   Java, Spring Boot, JSP, JavaScript, React, MariaDB(MySQL)에 능숙함
     *   _(Skilled in Java, Spring Boot, JSP, JavaScript, React, and MariaDB)_
 *   확장성 있는 백엔드 시스템 및 직관적인 프론트엔드 인터페이스 구축에 열정적
     *   _(Passionate about building **scalable backend systems** and **intuitive frontend interfaces**)_
@@ -162,98 +162,28 @@
 
 ---
 
-## 📂 Featured Projects (주요 프로젝트)
+### 📂 Featured Projects (주요 프로젝트)
 
-### 📟 스마트 키오스크 & 관리자 시스템 (Spring Boot + React)
-Spring Boot와 React를 활용하여 사용자 키오스크와 관리자 시스템을 통합 구축한 풀스택 프로젝트입니다.
-_(Full-stack project integrating a user kiosk and admin system using Spring Boot and React.)_ [【1】](about:blank)
-<details>
-<summary>자세히 보기</summary>
+아래는 제가 진행한 주요 프로젝트들입니다.  
+각 프로젝트의 상세 내용과 구현 과정은 👉 [웹 포트폴리오](https://seongwonp-portfolio.vercel.app/)또는 각 프로젝트에서 확인하실 수 있습니다!
 
-- **Role**: Fullstack Developer  
-- **Tech**: Java, Spring Boot, React, MariaDB, MyBatis, JPA, Thymeleaf, Axios, Chart.js, AOS  
-- **Highlights**:  
-  - 사용자용 키오스크 프론트와 관리자 페이지를 분리 구성  
-  - Spring Boot REST API 기반으로 유저-관리자 간 실시간 연동  
-  - 판매 현황, 재고/옵션 관리, 매출 통계까지 통합 구현  
-  - JPA + MyBatis 병행 활용으로 유연하고 효율적인 DB 처리  
-  - AOS, Chart.js 등 라이브러리로 시각화 및 사용자 경험 향상  
-</details>
+- 📟 **스마트 키오스크 & 관리자 시스템** (Spring Boot + React)  
+  사용자 키오스크와 관리자 시스템을 통합한 풀스택 프로젝트
 
-### 🅿️ JSP 기반 스마트 주차관리 시스템 (JSP Servlet)
-JSP와 Servlet 기반으로 차량 입출차 및 실시간 주차 현황 관리가 가능한 스마트 주차관리 시스템입니다.
-_(Smart parking management system based on JSP and Servlet, managing vehicle entry/exit and real-time parking status.)_ [【1】](about:blank)
-<details>
-<summary>자세히 보기</summary>
+- 🅿️ **스마트 주차관리 시스템** (JSP Servlet)  
+  차량 입출차 및 실시간 주차 현황 관리 시스템
 
-- **Role**: Full-stack Developer & Git 협업 리더  
-- **Tech**: Java, JSP, Servlet, JDBC, MariaDB, HTML/CSS/JS, jQuery  
-- **Highlights**:  
-  - 차량 입출차, 요금 계산, 할인 정책, 정기권 등 기능 구현  
-  - 로그인 인증 및 관리자 권한 분리 필터 적용  
-  - 실시간 주차 현황 표시 및 장기 주차 알림 기능 구현  
-  - 공지사항, 마이페이지, 관리자 대시보드 등 웹 서비스 전반 설계  
-  - Git 브랜치 전략 및 팀 협업 가이드 정리 (IntelliJ 기반)  
-  - 확장성 고려 (Spring Boot 전환, REST API 분리, 실시간 대시보드 제안)
-</details>
+- ⚙️ **리눅스 기반 시스템 프로그래밍 실습** (C)  
+  프로세스 제어, 시그널 통신, 파일 입출력 등 시스템 프로그래밍 실습
 
-### ⚙️ 리눅스 기반 시스템 프로그래밍 실습 (C)
-리눅스 환경에서 C언어 기반 시스템 프로그래밍 기법을 학습하고 구현한 실습 프로젝트입니다.
-_(Practical project learning and implementing C-based system programming techniques in a Linux environment.)_ [【1】](about:blank)
-<details>
-<summary>자세히 보기</summary>
+- 🚀 **콘솔 기반 슈팅 게임** (C)  
+  Windows 콘솔 환경에서 구현한 ASCII 슈팅 게임
 
-- **Role**: System-level Developer (학습 프로젝트)  
-- **Tech**: C, Linux, POSIX, Shell  
-- **Highlights**:  
-  - fork(), exec(), wait()를 활용한 프로세스 생성 및 제어 실습  
-  - signal(), kill()을 활용한 시그널 기반 통신 구현  
-  - open(), read(), write(), lseek() 등 시스템 호출을 이용한 파일 입출력 처리  
-  - Shell script를 이용해 디렉터리 백업 및 로그 자동화 프로그램 개발  
-  - Linux 환경에서 makefile 작성 및 gdb를 이용한 디버깅 능력 향상
-</details>
+- 🎮 **콘솔 기반 팩맨 게임** (Java GUI)  
+  J프레임과 버튼을 활용한 GUI 기반 팩맨 게임
 
-### 🚀 콘솔 기반 슈팅 게임 (C)
-Windows 콘솔 환경에서 C언어로 구현한 ASCII 기반 슈팅 게임입니다.
-_(ASCII-based shooting game implemented in C for Windows console environment.)_ [【1】](about:blank)
-<details>
-<summary>자세히 보기</summary>
-
-- **Role**: Solo Developer  
-- **Tech**: C, Windows API (`windows.h`, `stdbool.h`)  
-- **Highlights**:  
-  - Windows 콘솔 환경에서 ASCII 기반 슈팅 게임 구현  
-  - `GetAsyncKeyState()` 활용한 실시간 입력 처리  
-  - 적군 랜덤 생성, 총알 발사, 충돌 판정, 점수 시스템 등 완성도 높은 기능 구성  
-  - 시작화면, 도움말, 게임오버 연출 포함  
-  - 깔끔한 소스 코드 분리 구조 (`.h`, `.c`, 메인 루프 모듈화)  
-  - 캐릭터 잔상 문제 해결 및 메모리 최적화 수행  
-</details>
-
-### 🎮 콘솔 기반 팩맨 게임 (JAVA)
-J프레임과 버튼을 활용하여 GUI로 구현한 콘솔 기반 팩맨 게임입니다.
-_(Console-based Pac-Man game implemented with Java GUI using JFrames and buttons.)_ [【1】](about:blank)
-<details>
-<summary>자세히 보기</summary>
-
-- **Tech**: Java, GUI, 이벤트 처리  
-- **Highlights**:  
-  - J프레임과 버튼을 활용한 GUI 게임 구현  
-</details>
-
-### 🗣️ 라즈베리파이 기반 음성인식 AI 시스템
-마이크 입력을 통해 음성 명령을 인식하고 하드웨어를 제어하는 라즈베리파이 기반 시스템입니다.
-_(Raspberry Pi-based system that recognizes voice commands via microphone input and controls hardware.)_ [【1】](about:blank)
-<details>
-<summary>자세히 보기</summary>
-
-- **Tech**: Python, Raspberry Pi, SpeechRecognition, Microphone Input, GPIO  
-- **Highlights**:  
-  - 고등학교 동아리 활동 중 음성 명령 기반 하드웨어 제어 시스템 개발  
-  - 마이크 입력으로 특정 명령을 인식하고 LED 및 모터 제어  
-  - Raspberry Pi와 센서 연동을 통해 간단한 AI 인터페이스 구현  
-  - 음성 인식 오류 대응 로직 및 사용자 피드백 기능 적용  
-</details>
+- 🗣️ **라즈베리파이 기반 음성인식 AI 시스템**  
+  음성 명령으로 하드웨어를 제어하는 Raspberry Pi 프로젝트
 
 ---
 
