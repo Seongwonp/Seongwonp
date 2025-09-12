@@ -162,7 +162,7 @@
 - 🅿️ [**스마트 주차관리 시스템**](https://github.com/Seongwonp/SmartParking_System)  
   JSP Servlet 기반의 차량 입출차 및 실시간 주차 현황 관리 시스템
 
-- 🚀 [**C언어 콘솔 기반 슈팅 게임**](https://github.com/Seongwonp/shootinggame)  
+- 🚀 [**C언어 콘솔 기반 슈팅 게임**](https://github.com/Seongwonp/Shooting_Game)  
   Windows 콘솔 환경에서 ASCII 그래픽으로 구현한 슈팅 게임
 
 - 🎮 [**콘솔 기반 팩맨 게임**](https://github.com/Seongwonp/PacMan)  
