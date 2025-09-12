@@ -163,8 +163,6 @@
 
 ### 📂 Featured Projects (주요 프로젝트)
 
-## 📁 주요 프로젝트
-
 각 프로젝트의 상세 내용과 구현 과정은 👉 [웹 포트폴리오](https://seongwonp-portfolio.vercel.app/) 또는 아래 GitHub 링크에서 확인하실 수 있습니다!
 
 - 🐝 [**HoneyRest – 감성 숙소 예약 플랫폼**](https://github.com/Seongwonp/honeyRest_user)  
