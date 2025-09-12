@@ -35,7 +35,7 @@
     *   _(Passionate about building **scalable backend systems** and **intuitive frontend interfaces**)_
 *   협업, 문서화, 클린 아키텍처를 중요하게 생각함
     *   _(Dedicated to **collaboration**, **documentation**, and **clean architecture**)_
-*   📫 **Email**: `swp20138993@gmail.com`
+*   📫 **Email**: [swp20138993@gmail.com](mailto:swp20138993@gmail.com)
 
 ---
 
