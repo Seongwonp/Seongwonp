@@ -20,44 +20,31 @@
 *   🗂 Web Portfolio:  🌐 [웹 포트폴리오](https://seongwonp-portfolio.vercel.app/)
   
 ---
-
 ## 💡 About Me (소개)
 
-*   🎓 **대구가톨릭대학교** 컴퓨터공학 전공 4학기 수료 (GPA: 4.1 / 4.5)
-    *   _(Completed 4 semesters of Computer Engineering at **Daegu Catholic University** (GPA: 4.1 / 4.5))_
-*   ⭐️ 편입을 목표로 학업과 실전 프로젝트를 병행하며 역량 강화 중  
-    *   _(Strengthening skills through academic work and hands-on projects with a goal of transferring universities)_
-*   공공데이터 통합 기반 **900시간 풀스택 부트캠프** 수료
-    *   _(Finished a 900-hour full-stack bootcamp focused on **public data integration**)_
-*   Java, Spring Boot, JSP, JavaScript, React, MariaDB(MySQL)에 능숙함
-    *   _(Skilled in Java, Spring Boot, JSP, JavaScript, React, and MariaDB)_
-*   확장성 있는 백엔드 시스템 및 직관적인 프론트엔드 인터페이스 구축에 열정적
-    *   _(Passionate about building **scalable backend systems** and **intuitive frontend interfaces**)_
-*   협업, 문서화, 클린 아키텍처를 중요하게 생각함
-    *   _(Dedicated to **collaboration**, **documentation**, and **clean architecture**)_
-*   📫 **Email**: [swp20138993@gmail.com](mailto:swp20138993@gmail.com)
-
+* 🎓 **대구가톨릭대학교** 컴퓨터공학 4학기 수료 (GPA: 4.1 / 4.5)  
+  _(Completed 4 semesters of Computer Engineering at **Daegu Catholic University**, GPA: 4.1 / 4.5)_
+* ⭐ 편입 목표로 학업과 실전 프로젝트 병행  
+  _(Strengthening skills through academic work and hands-on projects with a goal of transferring universities)_
+* 🖥 **900시간 풀스택 부트캠프 수료** (공공데이터 기반)  
+  _(Completed a 900-hour full-stack bootcamp focused on **public data integration**)_
+* 🏆 **공로상 수상** – 전체 수강생 리더 및 프로젝트 공헌 인정  
+  _(Awarded for leading fellow students and contributing to collaborative success during the bootcamp)_
+* 💻 Java, Spring Boot, JSP, JavaScript, React, MariaDB 숙련  
+  _(Skilled in Java, Spring Boot, JSP, JavaScript, React, and MariaDB)_
+* 🌱 확장성 있는 백엔드와 직관적인 프론트엔드 구축에 열정  
+  _(Passionate about building **scalable backend systems** and **intuitive frontend interfaces**)_
+* 🤝 협업, 문서화, 클린 아키텍처 중요시  
+  _(Dedicated to **collaboration**, **documentation**, and **clean architecture**)_
+* 📫 Email: [swp20138993@gmail.com](mailto:swp20138993@gmail.com)
 ---
 
 ## 📈 GitHub Stats (GitHub 통계)
 
-## 📊 활동 통계
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seongwonp&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongwonp&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 커밋 스트릭 & 트로피
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Seongwonp&theme=tokyonight)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Seongwonp&theme=gruvbox)
-
----
-
-## 📈 활동 그래프
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seongwonp&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seongwonp&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongwonp&layout=compact&theme=tokyonight" alt="Top Languages" width="36%" />
+</p>
 
 ---
 
