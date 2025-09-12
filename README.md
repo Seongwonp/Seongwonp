@@ -164,26 +164,31 @@
 
 ### 📂 Featured Projects (주요 프로젝트)
 
-아래는 제가 진행한 주요 프로젝트들입니다.  
-각 프로젝트의 상세 내용과 구현 과정은 👉 [웹 포트폴리오](https://seongwonp-portfolio.vercel.app/)또는 각 프로젝트에서 확인하실 수 있습니다!
+## 📁 주요 프로젝트
 
-- 📟 **스마트 키오스크 & 관리자 시스템** (Spring Boot + React)  
-  사용자 키오스크와 관리자 시스템을 통합한 풀스택 프로젝트
+각 프로젝트의 상세 내용과 구현 과정은 👉 [웹 포트폴리오](https://seongwonp-portfolio.vercel.app/) 또는 아래 GitHub 링크에서 확인하실 수 있습니다!
 
-- 🅿️ **스마트 주차관리 시스템** (JSP Servlet)  
-  차량 입출차 및 실시간 주차 현황 관리 시스템
+- 🐝 [**HoneyRest – 감성 숙소 예약 플랫폼**](https://github.com/Seongwonp/honeyRest_user)  
+  Spring Boot + React 기반의 숙소 예약 플랫폼  
+  사용자/호스트/관리자 역할 분리, Redis 캐싱, Firebase 이미지 저장, JPA 기반 DB 설계 등 실전형 풀스택 프로젝트
 
-- ⚙️ **리눅스 기반 시스템 프로그래밍 실습** (C)  
-  프로세스 제어, 시그널 통신, 파일 입출력 등 시스템 프로그래밍 실습
+- 📟 [**스마트 키오스크 & 관리자 시스템**](https://github.com/Seongwonp/kiosk_user)  
+  Spring Boot + React 기반의 사용자 키오스크와 관리자 시스템 통합 풀스택 프로젝트
 
-- 🚀 **콘솔 기반 슈팅 게임** (C)  
-  Windows 콘솔 환경에서 구현한 ASCII 슈팅 게임
+- 🅿️ [**스마트 주차관리 시스템**](https://github.com/Seongwonp/SmartParking_System)  
+  JSP Servlet 기반의 차량 입출차 및 실시간 주차 현황 관리 시스템
 
-- 🎮 **콘솔 기반 팩맨 게임** (Java GUI)  
-  J프레임과 버튼을 활용한 GUI 기반 팩맨 게임
+- 🚀 [**C언어 콘솔 기반 슈팅 게임**](https://github.com/Seongwonp/shootinggame)  
+  Windows 콘솔 환경에서 ASCII 그래픽으로 구현한 슈팅 게임
 
-- 🗣️ **라즈베리파이 기반 음성인식 AI 시스템**  
-  음성 명령으로 하드웨어를 제어하는 Raspberry Pi 프로젝트
+- 🎮 [**콘솔 기반 팩맨 게임**](https://github.com/Seongwonp/PacMan)  
+  Java GUI(JFrame, 버튼 등)를 활용한 팩맨 게임 구현
+
+- 🗣️ [**라즈베리파이 기반 음성인식 AI 시스템**](#)  
+  음성 명령으로 하드웨어를 제어하는 Raspberry Pi 기반 프로젝트
+
+- ⚙️ [**리눅스 기반 시스템 프로그래밍 실습**](#)  
+  C 언어로 구현한 프로세스 제어, 시그널 통신, 파일 입출력 실습 프로젝트
 
 ---
 
