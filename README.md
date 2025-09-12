@@ -25,8 +25,8 @@
 
 *   🎓 **대구가톨릭대학교** 컴퓨터공학 전공 4학기 수료 (GPA: 4.1 / 4.5)
     *   _(Completed 4 semesters of Computer Engineering at **Daegu Catholic University** (GPA: 4.1 / 4.5))_
-*   ⭐️ 편입 준비 중
-    *   _(Preparing to transfer to **Konkuk University**)_
+*   ⭐️ 편입을 목표로 학업과 실전 프로젝트를 병행하며 역량 강화 중  
+    *   _(Strengthening skills through academic work and hands-on projects with a goal of transferring universities)_
 *   공공데이터 통합 기반 **900시간 풀스택 부트캠프** 수료
     *   _(Finished a 900-hour full-stack bootcamp focused on **public data integration**)_
 *   Java, Spring Boot, JSP, JavaScript, React, MariaDB(MySQL)에 능숙함
@@ -35,8 +35,7 @@
     *   _(Passionate about building **scalable backend systems** and **intuitive frontend interfaces**)_
 *   협업, 문서화, 클린 아키텍처를 중요하게 생각함
     *   _(Dedicated to **collaboration**, **documentation**, and **clean architecture**)_
-*   📫 **이메일**: `swp20138993@gmail.com`
-    *   _(`Email: swp20138993@gmail.com`)_
+*   📫 **Email**: `swp20138993@gmail.com`
 
 ---
 
