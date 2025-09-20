@@ -150,7 +150,7 @@
 
 ### 📂 Featured Projects (주요 프로젝트)
 
-각 프로젝트의 상세 내용과 구현 과정은 👉 [웹 포트폴리오](https://seongwonp-portfolio.vercel.app/) 또는 아래 GitHub 링크에서 확인하실 수 있습니다!
+각 프로젝트의 상세 내용과 구현 과정은 아래 GitHub 링크에서 확인하실 수 있습니다!
 
 - 🐝 [**HoneyRest – 감성 숙소 예약 플랫폼**](https://github.com/Seongwonp/honeyRest_user)  
   Spring Boot + React 기반의 숙소 예약 플랫폼  
@@ -168,8 +168,8 @@
 - 🎮 [**콘솔 기반 팩맨 게임**](https://github.com/Seongwonp/PacMan)  
   Java GUI(JFrame, 버튼 등)를 활용한 팩맨 게임 구현
 
-- 🗣️ [**라즈베리파이 기반 음성인식 AI 시스템**](#)  
-  음성 명령으로 하드웨어를 제어하는 Raspberry Pi 기반 프로젝트
+- 🧞‍♂️ [**QGenie – AI 맞춤 문제 생성 웹 서비스**](https://github.com/Seongwonp/QGenie)  
+  사용자가 업로드한 PDF(영어 기출, 독해, 문제집 등)에서 문제를 선택하고, 유형/난이도를 설정하면 AI가 맞춤 문제를 생성하는 웹 서비스  
 
 - ⚙️ [**리눅스 기반 시스템 프로그래밍 실습**](https://github.com/Seongwonp/C_LinuxSysprog)  
   C 언어로 구현한 프로세스 제어, 시그널 통신, 파일 입출력 실습 프로젝트
