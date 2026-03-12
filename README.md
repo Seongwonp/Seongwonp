@@ -39,14 +39,17 @@
 
 ### 🧩 Languages
 <p>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
 </p>
 
@@ -61,12 +64,21 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </a>
 </p>
 
 ### 🛢️ Databases
 <p>
   <a href="https://mariadb.org/" target="_blank">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
 </p>
 
@@ -99,6 +111,15 @@
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://img.shields.io/badge/PyCharm-1EAA59?style=for-the-badge&logo=pycharm&logoColor=white" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  </a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank">
+    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
   </a>
 </p>
 </div>
