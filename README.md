@@ -132,7 +132,7 @@
 ## 📂 Featured Projects
 
 - 🐝 [**HoneyRest – 감성 숙소 예약 플랫폼**](https://github.com/Seongwonp/honeyRest_user) – Spring Boot + React, Redis 캐싱, Firebase 이미지 저장  
-- 📟 [**스마트 키오스크 & 관리자 시스템**](https://github.com/Seongwonp/kiosk_user) – Spring Boot + React 기반 통합 시스템  
+- 📟 [**스마트 키오스크 & 관리자 시스템**](https://github.com/Seongwonp/kiosk_admin) – Spring Boot + React 기반 통합 시스템  
 - 🅿️ [**스마트 주차관리 시스템**](https://github.com/Seongwonp/SmartParking_System) – JSP + Servlet 기반 차량 관리 시스템  
 - 🚀 [**C언어 콘솔 슈팅 게임**](https://github.com/Seongwonp/Shooting_Game)  
 - 🎮 [**콘솔 팩맨 게임**](https://github.com/Seongwonp/PacMan)  
