@@ -10,10 +10,10 @@
 
 <h2 align="center">박성원 · Seongwon Park</h2>
 <p align="center">
-  <b>Backend Developer</b> · Spring Boot · Python · System Design
+  <b>Server Engineer</b> · Backend · Infrastructure · Security
 </p>
 <p align="center">
-  안정적이고 확장 가능한 서버 시스템을 설계하는 개발자입니다
+  서버 설계부터 배포·운영까지, 안정적이고 확장 가능한 시스템을 만드는 개발자입니다
 </p>
 
 <br/>
@@ -24,9 +24,11 @@
 
 ```yaml
 Name     : 박성원 (Seongwon Park)
-Focus    : Backend Architecture · Server Engineering
-Education: 수원대학교 정보보호학과 편입 (편입 전: 대구가톨릭대 컴퓨터공학과 GPA 4.1/4.5)
+Goal     : Server Engineer · Backend Architecture · Infrastructure
+Education: 수원대학교 정보보호학과 편입
+           (편입 전: 대구가톨릭대 컴퓨터공학과 GPA 4.1/4.5)
 Training : 공공데이터 기반 풀스택 부트캠프 900시간 수료
+Deployed : Naver Cloud Platform (백엔드/프론트 분리 배포 경험)
 Contact  : swp20138993@gmail.com
 Portfolio: https://seongwonp-portfolio.vercel.app/
 ```
@@ -37,7 +39,7 @@ Portfolio: https://seongwonp-portfolio.vercel.app/
 
 ### 🛠 Tech Stack
 
-**Backend**
+**Server / Backend**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -45,21 +47,27 @@ Portfolio: https://seongwonp-portfolio.vercel.app/
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frontend**
+**Infrastructure / DevOps**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Database & Infra**
+**Database**
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Frontend** *(서버 연동 수준)*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 <br/>
 
@@ -82,13 +90,15 @@ Portfolio: https://seongwonp-portfolio.vercel.app/
 
 ### 🧾 Certifications
 
-| 자격증 | 상태 |
-|--------|------|
-| 컴퓨터활용능력 1급 | ✅ |
-| 리눅스 마스터 2급 | ✅ |
-| 네트워크 관리사 2급 | 🔜 |
-| SQLD | 🔜 |
-| 정보처리기사 | 🔜 |
+| 자격증 | 상태 | 비고 |
+|--------|------|------|
+| 컴퓨터활용능력 1급 | ✅ 취득 | |
+| 네트워크전문가 1급 | ✅ 취득 | 네트워크 설계·운영 |
+| 리눅스 마스터 2급 | ✅ 취득 | 서버 운영 기반 |
+| 네트워크 관리사 2급 | 🔜 예정 | |
+| SQLD | 🔜 예정 | |
+| 정보처리기사 | 🔜 예정 | |
+| PCCP Level 3 | 🔜 예정 | |
 
 <br/>
 
@@ -108,5 +118,5 @@ Portfolio: https://seongwonp-portfolio.vercel.app/
 
 <p align="center">
   <a href="mailto:swp20138993@gmail.com">📫 Email</a> &nbsp;·&nbsp;
-  <a href="https://seongwonp-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://seongwonp-portfolio.vercel.app/">🌐 Portfolio</a>
 </p>
