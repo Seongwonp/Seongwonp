@@ -127,7 +127,7 @@ contact : swp20138993@gmail.com
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  💖
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Seongwonp&theme=radical"/>
