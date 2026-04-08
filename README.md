@@ -6,7 +6,7 @@
 
 <!-- 짤4: Hello World → 이름 위 인트로 -->
 <p align="center">
-  <img src="/welcome.gif" width="400" hight="200" />
+  <img src="/welcome.gif" width="400" height="200" />
 </p>
 
 <h1 align="center">박성원 · Seongwon Park</h1>
