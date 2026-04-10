@@ -30,10 +30,6 @@
   <a href="mailto:swp20138993@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/📫%20Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Seongwonp" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 <br/>
