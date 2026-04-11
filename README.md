@@ -23,12 +23,16 @@
 <br/>
 
 <div align="center">
-  <a href="https://seongwonp-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <a href="https://seongwonp-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="mailto:swp20138993@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/📫%20Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+  <a href="https://velog.io/@opentime_kr" target="_blank">
+    <img src="https://img.shields.io/badge/📝%20Velog-20C997?style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:swp20138993@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📫%20Email-EA4335?style=for-the-badge"/>
   </a>
 </div>
 
