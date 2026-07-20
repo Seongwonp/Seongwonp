@@ -37,6 +37,7 @@
 | **AI Exam Generator** | PDF 업로드부터 문제 추출·변형 생성·편집·PDF 출력까지 비동기 파이프라인으로 자동화한 교육 서비스. 외부 API 429 대응(Backoff/Fallback), 결제·크레딧·운영 로그 포함 | `FastAPI` `PostgreSQL` `Redis/RQ` `Gemini` `React` `Docker` `NCP` | [Demo](https://ai-examgenerator.co.kr/) · [GitHub](https://github.com/Seongwonp/CSAT_Forge) |
 | **Telemetrix** | MQTT→Kafka 이중 파이프라인으로 저장/이상 감지 경로를 분리한 모빌리티 IoT 백엔드. ADR·보안 점검·장애 시나리오 문서화 | `Spring Boot` `Kafka` `MQTT` `InfluxDB` `PostgreSQL` `Redis` `Python` `Grafana` | [GitHub](https://github.com/Seongwonp/vehicle-telemetry-platform) |
 | **HoneyRest** | 사용자/업체/총관리자 역할 분리 숙소 예약 플랫폼. 팀장으로 DB 설계, 인증·권한, 통합 코드 리뷰, 제출 후 성능·보안 리팩토링 수행 | `Spring Boot` `React` `JPA` `Redis` `JWT/OAuth2` `Firebase` | [User API](https://github.com/Seongwonp/honeyRest_user) · [Admin](https://github.com/Seongwonp/honeyRest_host) |
+| **AIDA** | 객체탐지 학습데이터의 라벨 오류를 성능 저하 패턴 비교로 역추적 진단하는 품질검증 플랫폼 (국방특허 Spin-off). KITTI 520장 × 13개 오류 조건 실측 실험, 국방기술 창업경진대회 2차 예선 진출 | `Python` `YOLOv8` `PyTorch` `FastAPI` `React` `TypeScript` | [GitHub](https://github.com/Seongwonp/AIDA) |
 | **No-Click** | 광고성 리뷰 탐지 + 숨겨진 단점 역추론 + 신뢰도 리포트를 제공하는 AI 분석 서비스 (해커톤 MVP 배포) | `FastAPI` `React` `TypeScript` `Gemini` `SQLite` | [Demo](https://noclick.pages.dev/) · [GitHub](https://github.com/Seongwonp/NoClick) |
 | **Smart Parking** | JSP/Servlet MVC 직접 구현으로 입출차·요금·할인·관리자 대시보드 통합 | `JSP` `Servlet` `JDBC` `MariaDB` | [GitHub](https://github.com/Seongwonp/SmartParking_System) |
 
@@ -97,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seongwonp&theme=tokyonight&hide_border=true" height="155" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Seongwonp&theme=tokyonight&hide_border=true" height="155" alt="Streak"/>
 </div>
 
 <div align="center">
