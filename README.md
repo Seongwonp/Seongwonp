@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="Seongwon Park — Backend Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,52:312E81,100:0F766E&height=230&section=header&text=Seongwon%20Park&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Systems%20-%20Platform%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Seongwon Park — Backend Systems and Platform Engineering"/>
 
 <br/>
 
