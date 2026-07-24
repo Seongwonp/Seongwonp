@@ -156,9 +156,14 @@ Training-data quality experiment using KITTI, YOLOv8, and 13 injected error cond
 
 </div>
 
+<details>
+<summary><sub>How the language card is calculated</sub></summary>
+
 <sub>
-The language card excludes <code>honeyRest_host</code> because that repository vendors about 11.4 MB of third-party JavaScript libraries under its static assets. The chart weights both code size and repository count; it is repository composition, not a proficiency score.
+<code>honeyRest_host</code> is excluded because it vendors about 11.4 MB of third-party JavaScript libraries under its static assets. The chart weights both code size and repository count; it shows repository composition, not a proficiency score.
 </sub>
+
+</details>
 
 ## `05 / RIGHT NOW`
 
