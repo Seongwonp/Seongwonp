@@ -1,106 +1,119 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3182f6,100:1a6ee5&height=220&section=header&text=Seongwon%20Park&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Backend%20%7C%20Server%20Engineer&descSize=19&descAlignY=66&descColor=c8deff" width="100%" />
-</div>
 
-<div align="center">
+# Hi, I'm Seongwon 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://seongwonp-portfolio.vercel.app/)
-[![AI Exam Generator](https://img.shields.io/badge/AI%20Exam%20Generator-2D7FF9?style=flat-square)](https://ai-examgenerator.co.kr/)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square)](https://velog.io/@opentime_kr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongwon-park-10108035b/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square)](mailto:swp20138993@gmail.com)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Seongwonp.Seongwonp)
+### Backend developer based in Korea
+
+I mostly work with **FastAPI** and **Spring Boot**.<br/>
+I like taking projects past “it works” — deploying them, measuring them, and fixing what breaks.
+
+<sub>만드는 것에서 끝내지 않고, 직접 운영하고 확인하면서 개선하는 개발자입니다.</sub>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-191F28?style=for-the-badge&logo=vercel&logoColor=white)](https://seongwonp-portfolio.vercel.app/)
+[![AI Exam](https://img.shields.io/badge/AI_Exam-3182F6?style=for-the-badge&logo=fastapi&logoColor=white)](https://ai-examgenerator.co.kr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongwon-park-10108035b/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@opentime_kr)
 
 </div>
 
 ---
 
-## About
+## What I'm working on
 
-<img align="right" src="https://raw.githubusercontent.com/Seongwonp/Seongwonp/main/codingCat.gif" width="150" alt="coding cat"/>
+<img align="right" src="./codingCat.gif" width="130" alt="Coding cat"/>
 
-배포 이후에도 안정적으로 운영되는 서버를 만드는 백엔드 개발자 박성원입니다.
-
-- 수원대학교 정보보호학과 재학 (편입, 2026~)
-- AI Exam Generator 실서비스 단독 개발·운영 (2026.01~)
-- FastAPI / Spring Boot 기반 설계부터 배포·운영까지 End-to-End 경험
-- 인증/인가, Rate Limiting, 보안 점검, 장애 대응 문서화 중심 개발
+- 🟢 Running and improving [AI Exam Generator](https://ai-examgenerator.co.kr/)
+- 🚗 Finding the real bottlenecks in [Telemetrix](https://github.com/Seongwonp/vehicle-telemetry-platform)
+- 📄 Building a deterministic HWPX rendering pipeline in [Han-Flow](https://github.com/Seongwonp/han-flow)
+- 🔐 Studying Information Security at the University of Suwon
 
 <br clear="right"/>
 
 ---
 
-## Featured Projects
+## Selected projects
 
-| Project | Description | Tech | Link |
-|:---|:---|:---|:---:|
-| **AI Exam Generator** | PDF 업로드부터 문제 추출·변형 생성·편집·PDF 출력까지 비동기 파이프라인으로 자동화한 교육 서비스. 외부 API 429 대응(Backoff/Fallback), 결제·크레딧·운영 로그 포함 | `FastAPI` `PostgreSQL` `Redis/RQ` `Gemini` `React` `Docker` `NCP` | [Demo](https://ai-examgenerator.co.kr/) · [GitHub](https://github.com/Seongwonp/CSAT_Forge) |
-| **Telemetrix** | MQTT→Kafka 이중 파이프라인으로 저장/이상 감지 경로를 분리한 모빌리티 IoT 백엔드. ADR·보안 점검·장애 시나리오 문서화 | `Spring Boot` `Kafka` `MQTT` `InfluxDB` `PostgreSQL` `Redis` `Python` `Grafana` | [GitHub](https://github.com/Seongwonp/vehicle-telemetry-platform) |
-| **HoneyRest** | 사용자/업체/총관리자 역할 분리 숙소 예약 플랫폼. 팀장으로 DB 설계, 인증·권한, 통합 코드 리뷰, 제출 후 성능·보안 리팩토링 수행 | `Spring Boot` `React` `JPA` `Redis` `JWT/OAuth2` `Firebase` | [User API](https://github.com/Seongwonp/honeyRest_user) · [Admin](https://github.com/Seongwonp/honeyRest_host) |
-| **AIDA** | 객체탐지 학습데이터의 라벨 오류를 성능 저하 패턴 비교로 역추적 진단하는 품질검증 플랫폼 (국방특허 Spin-off). KITTI 520장 × 13개 오류 조건 실측 실험, 국방기술 창업경진대회 2차 예선 진출 | `Python` `YOLOv8` `PyTorch` `FastAPI` `React` `TypeScript` | [GitHub](https://github.com/Seongwonp/AIDA) |
-| **No-Click** | 광고성 리뷰 탐지 + 숨겨진 단점 역추론 + 신뢰도 리포트를 제공하는 AI 분석 서비스 (해커톤 MVP 배포) | `FastAPI` `React` `TypeScript` `Gemini` `SQLite` | [Demo](https://noclick.pages.dev/) · [GitHub](https://github.com/Seongwonp/NoClick) |
-| **Smart Parking** | JSP/Servlet MVC 직접 구현으로 입출차·요금·할인·관리자 대시보드 통합 | `JSP` `Servlet` `JDBC` `MariaDB` | [GitHub](https://github.com/Seongwonp/SmartParking_System) |
+| Project | What it is | Status |
+|:---|:---|:---:|
+| [**AI Exam Generator**](https://github.com/Seongwonp/CSAT_Forge) | Turns uploaded exam PDFs into editable AI-generated questions. Built with async workers, subscriptions, payments, monitoring, and recovery paths. | 🟢 Live |
+| [**Telemetrix**](https://github.com/Seongwonp/vehicle-telemetry-platform) | MQTT → Kafka vehicle telemetry pipeline with separate storage and anomaly detection consumers. Includes load tests and architecture decisions. | 🟡 Improving |
+| [**Han-Flow**](https://github.com/Seongwonp/han-flow) | Read-only macOS HWPX viewer built around a one-way parser → layout → paint → PDF pipeline. | 🟡 Building |
+| [**HoneyRest**](https://github.com/Seongwonp/honeyRest_user) | Booking platform for users, hosts, and administrators. I led the team and built the user stack, shared database model, and system integration. | ✅ Completed |
 
 <details>
-<summary><b>Learning Archives</b></summary>
+<summary><b>More projects</b></summary>
 
-| Repository | Description |
-|:---|:---|
-| [Go_Practice](https://github.com/Seongwonp/Go_Practice) | 동시성, 테스트, HTTP 서버, DB 트랜잭션, 운영/성능까지 12파트 학습 |
-| [TypeScript_practice](https://github.com/Seongwonp/TypeScript_practice) | TypeScript 타입 시스템 핵심 개념 정리 |
-| [JavaScript_Project](https://github.com/Seongwonp/JavaScript_Project) | DOM/이벤트/API 연습 |
-| [JavaPractice](https://github.com/Seongwonp/JavaPractice) | Java·JSP·Servlet 웹 프로그래밍 |
-| [C_Data_Structures](https://github.com/Seongwonp/C_Data_Structures) | C 자료구조 구현 |
-| [C_LinuxSysprog](https://github.com/Seongwonp/C_LinuxSysprog) | Linux 시스템 프로그래밍 실습 |
+<br/>
+
+- [AIDA](https://github.com/Seongwonp/AIDA) — AI training-data quality experiments with KITTI, YOLOv8, and 13 injected error conditions
+- [Touch Bridge](https://github.com/Seongwonp/touch_bridge) — accessible IoT interface for operating existing home appliances
+- [No-Click](https://github.com/Seongwonp/NoClick) — AI review analyzer for promotional content and missing drawbacks
+- [Go Practice](https://github.com/Seongwonp/Go_Practice) — concurrency, HTTP, transactions, testing, and performance notes
 
 </details>
 
 ---
 
-## Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## Tools I use often
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 
-### Data / Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+### Data & messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### Operations & client
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=191F28)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=191F28)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-## GitHub Stats
+## GitHub at a glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seongwonp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongwonp&theme=tokyonight&hide_border=true&layout=compact" height="155" alt="Top Langs"/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Seongwonp&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Seongwon's GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Seongwonp&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Most used repository languages"/>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Seongwonp&theme=tokyonight&hide_border=true" height="155" alt="Streak"/>
-</div>
+<sub>Language percentages show repository composition, not proficiency.</sub>
+
+---
+
+## A few notes behind the code
+
+- [Telemetrix load-test results](https://github.com/Seongwonp/vehicle-telemetry-platform/blob/main/docs/load-test-plan.md)
+- [Telemetrix architecture decisions](https://github.com/Seongwonp/vehicle-telemetry-platform/blob/main/docs/architecture-decisions.md)
+- [HoneyRest architecture & database design](https://github.com/Seongwonp/honeyRest_user/blob/main/docs/ARCHITECTURE.md)
+- [HoneyRest stabilization and testing](https://github.com/Seongwonp/honeyRest_user/blob/main/docs/IMPROVEMENTS.md)
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6ee5,100:3182f6&height=100&section=footer" width="100%"/>
+
+Want to talk about backend systems, weird bugs, or a project idea?
+
+[![Email](https://img.shields.io/badge/Email-swp20138993%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swp20138993@gmail.com)
+
 </div>
