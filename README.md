@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://seongwonp-portfolio.vercel.app/)
+[![ Portfolio](https://img.shields.io/badge/Portfolio-191F28?style=for-the-badge&logo=github&logoColor=white)](https://seongwonp.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongwon-park-10108035b/)
 [![Velog](https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@opentime_kr)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swp20138993@gmail.com)
