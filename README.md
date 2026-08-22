@@ -78,24 +78,24 @@ Read-only macOS HWPX viewer with a one-way parser → layout → paint → PDF p
 <tr>
 <td width="50%" valign="top">
 
-### [HoneyRest](https://github.com/Seongwonp/honeyRest_user) · `Java`
+### [AI Exam Generator](https://github.com/Seongwonp/CSAT_Forge) · `Python`
 
-Booking platform split across user, host, and admin applications. I led service integration and shared database design.
+A deployed exam-generation service with payments, asynchronous workers, monitoring, and recovery paths.
 
-`Spring Boot` `team leadership` `system integration`
+`FastAPI` `Redis workers` `service operations`
 
-**Three applications, one product flow, and a lot of debugging at the seams.**
+**Built the service, put it online, and stayed responsible for what happens when external APIs or workers fail.**
 
 </td>
 <td width="50%" valign="top">
 
-### [AIDA](https://github.com/Seongwonp/AIDA) · `Python`
+### [SimpleLay](https://seongwonp.github.io/#projects) · `Embedded / Python`
 
-Training-data quality experiment using KITTI, YOLOv8, and 13 injected error conditions.
+Smart-appliance interface combining a Flutter app, Raspberry Pi control API, physical actuation, and sensor-based verification.
 
-`experiment design` `FastAPI` `React dashboard`
+`competition finalist` `real-device integration` `closed-loop verification`
 
-**Experiment, backend, and frontend are connected by one explicit CSV contract.**
+**A command is not considered successful until current and audio sensors confirm that the appliance actually responded.**
 
 </td>
 </tr>
@@ -108,10 +108,10 @@ Training-data quality experiment using KITTI, YOLOv8, and 13 injected error cond
 
 - [Touch Bridge](https://github.com/Seongwonp/touch_bridge) — accessible IoT interface for existing home appliances
 - [No-Click](https://github.com/Seongwonp/NoClick) — AI-assisted review analysis for promotional content and missing drawbacks
-- [AI Exam Generator](https://github.com/Seongwonp/CSAT_Forge) — a deployed exam-question service where I learned payments, workers, monitoring, and recovery
+- [HoneyRest](https://github.com/Seongwonp/honeyRest_user) — a booking platform split across user, host, and admin applications
+- [AIDA](https://github.com/Seongwonp/AIDA) — a training-data quality experiment using KITTI, YOLOv8, and 13 injected error conditions
 - [C Data Structures](https://github.com/Seongwonp/C_Data_Structures) — lists, stacks, queues, AVL trees, graphs, hash tables, tries, and sorting algorithms implemented in C
 - [Linux C System Programming](https://github.com/Seongwonp/C_LinuxSysprog) — files, processes, memory, signals, sockets, pthreads, and IPC
-- [Go Practice](https://github.com/Seongwonp/Go_Practice) — concurrency, HTTP, transactions, testing, and performance notes
 
 </details>
 
@@ -124,7 +124,6 @@ Training-data quality experiment using KITTI, YOLOv8, and 13 injected error cond
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
