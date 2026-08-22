@@ -109,6 +109,8 @@ Training-data quality experiment using KITTI, YOLOv8, and 13 injected error cond
 - [Touch Bridge](https://github.com/Seongwonp/touch_bridge) — accessible IoT interface for existing home appliances
 - [No-Click](https://github.com/Seongwonp/NoClick) — AI-assisted review analysis for promotional content and missing drawbacks
 - [AI Exam Generator](https://github.com/Seongwonp/CSAT_Forge) — a deployed exam-question service where I learned payments, workers, monitoring, and recovery
+- [C Data Structures](https://github.com/Seongwonp/C_Data_Structures) — lists, stacks, queues, AVL trees, graphs, hash tables, tries, and sorting algorithms implemented in C
+- [Linux C System Programming](https://github.com/Seongwonp/C_LinuxSysprog) — files, processes, memory, signals, sockets, pthreads, and IPC
 - [Go Practice](https://github.com/Seongwonp/Go_Practice) — concurrency, HTTP, transactions, testing, and performance notes
 
 </details>
@@ -117,13 +119,16 @@ Training-data quality experiment using KITTI, YOLOv8, and 13 injected error cond
 
 <div align="center">
 
-**Backend & API**
+**Languages & backend**
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<sub>C foundations: pointers and dynamic memory, data structures, and Linux system programming with processes, signals, sockets, pthreads, and IPC.</sub>
 
 **Data & messaging**
 
