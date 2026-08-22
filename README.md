@@ -89,13 +89,13 @@ A deployed exam-generation service with payments, asynchronous workers, monitori
 </td>
 <td width="50%" valign="top">
 
-### [SimpleLay](https://seongwonp.github.io/#projects) · `Embedded / Python`
+### [Touch Bridge](https://github.com/Seongwonp/touch_bridge) · `Embedded / Python`
 
-Smart-appliance interface combining a Flutter app, Raspberry Pi control API, physical actuation, and sensor-based verification.
+Accessible IoT interface that helps visually impaired users operate existing home appliances through voice commands.
 
-`competition finalist` `real-device integration` `closed-loop verification`
+`Flutter` `FastAPI` `Raspberry Pi / ESP32`
 
-**A command is not considered successful until current and audio sensors confirm that the appliance actually responded.**
+**Connected an accessible mobile interface to physical appliance control without requiring users to replace their existing devices.**
 
 </td>
 </tr>
@@ -106,7 +106,6 @@ Smart-appliance interface combining a Flutter app, Raspberry Pi control API, phy
 
 <br/>
 
-- [Touch Bridge](https://github.com/Seongwonp/touch_bridge) — accessible IoT interface for existing home appliances
 - [No-Click](https://github.com/Seongwonp/NoClick) — AI-assisted review analysis for promotional content and missing drawbacks
 - [HoneyRest](https://github.com/Seongwonp/honeyRest_user) — a booking platform split across user, host, and admin applications
 - [AIDA](https://github.com/Seongwonp/AIDA) — a training-data quality experiment using KITTI, YOLOv8, and 13 injected error conditions
