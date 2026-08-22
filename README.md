@@ -78,7 +78,7 @@ Read-only macOS HWPX viewer with a one-way parser → layout → paint → PDF p
 <tr>
 <td width="50%" valign="top">
 
-### [AI Exam Generator](https://github.com/Seongwonp/CSAT_Forge) · `Python`
+### [AI Exam Generator](https://seongwonp.github.io/AI-ExamGenerator/) · `Python`
 
 A deployed exam-generation service with payments, asynchronous workers, monitoring, and recovery paths.
 
