@@ -5,8 +5,8 @@
 <br/>
 
 [![ Portfolio](https://img.shields.io/badge/Portfolio-191F28?style=for-the-badge&logo=github&logoColor=white)](https://seongwonp.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongwon-park-10108035b/)
-[![Velog](https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@opentime_kr)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI0LjIiLz48cGF0aCBkPSJNMy41IDIxYTguNSA4LjUgMCAwIDEgMTcgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/seongwon-park-10108035b/)
+[![Tistory](https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://time-is-limit.tistory.com/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swp20138993@gmail.com)
 
 ### I build backend systems, then stay around to see how they behave.
