@@ -11,7 +11,7 @@
 
 ### I build backend systems, then stay around to see how they behave.
 
-FastAPI and Spring Boot are my usual tools.<br/>
+Spring Boot and FastAPI are my usual tools.<br/>
 I enjoy the part after “it works”: deployment, load testing, failure analysis, and the next iteration.
 
 <sub>만들고 끝내기보다, 직접 운영하고 측정하면서 다음 개선점을 찾습니다.</sub>
@@ -56,46 +56,52 @@ Authentication, payments, async workers, caching, monitoring, recovery paths, an
 
 ### [Telemetrix](https://github.com/Seongwonp/vehicle-telemetry-platform) · `Java`
 
-Vehicle telemetry platform built around MQTT → Kafka → storage and anomaly consumers.
+Vehicle telemetry pipeline: MQTT → Kafka → InfluxDB/PostgreSQL, with anomaly consumers and a DLQ.
 
-`load testing` `architecture decisions` `time-series data`
+`Spring Boot` `Kafka` `fault injection`
 
-**Found a silent 50% data-loss bug and recovered storage throughput to 98.5% of target.**
+**Reproduced a 72.1% message loss during a 90-second broker outage, then confirmed zero loss under the same conditions after the fix.**
+
+<sub>Simulated data on a single host. Limits are documented in the repository.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [Han-Flow](https://seongwonp-portfolio.vercel.app/#projects) · `TypeScript`
+### [AI Exam Generator](https://seongwonp.github.io/AI-ExamGenerator/) · `Python`
 
-Read-only macOS HWPX viewer with a one-way parser → layout → paint → PDF pipeline.
+PDF-to-exam service in a live pilot, registered under an academy's business license. I build and operate it solo, fix issues from real user feedback, and review logs weekly. [Visit service ↗](https://ai-examgenerator.co.kr/)
 
-`parser boundaries` `deterministic IDs` `visual regression`
+`FastAPI` `Redis/RQ workers` `PostgreSQL`
 
-**The parser never knows React; the layout engine never knows ZIP or XML.**
+**Idempotent credit ledger and bounded retries keep failed jobs from double-charging or silently dropping questions.**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [AI Exam Generator](https://seongwonp.github.io/AI-ExamGenerator/) · `Python`
+### [Touch Bridge](https://github.com/Seongwonp/touch_bridge) · `Flutter / FastAPI`
 
-A deployed exam-generation service with payments, asynchronous workers, monitoring, and recovery paths.
+Voice-driven input assistance that presses touch-panel appliance buttons for blind users (Hanium Dream-Up).
 
-`FastAPI` `Redis workers` `service operations`
+`safety contracts` `fault injection` `BLE (ESP32)`
 
-**Built the service, put it online, and stayed responsible for what happens when external APIs or workers fail.**
+**Conference paper accepted at KIPS ACK 2026 (poster, first author).** In 8 fault-injection scenarios, commands sent after an emergency stop dropped from 7–20 lines to 0.
+
+<sub>Measured at an app-side virtual transport layer; not yet verified on physical hardware.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [Touch Bridge](https://github.com/Seongwonp/touch_bridge) · `Embedded / Python`
+### [HoneyRest](https://github.com/Seongwonp/honeyRest_user) · `Java`
 
-Accessible IoT interface that helps visually impaired users operate existing home appliances through voice commands.
+Lodging reservation platform split into user, host, and admin apps over one 30-table schema. [Live demo ↗](https://honeyrest.onrender.com)
 
-`Flutter` `FastAPI` `Raspberry Pi / ESP32`
+`Spring Boot` `JPA` `Toss Payments`
 
-**Connected an accessible mobile interface to physical appliance control without requiring users to replace their existing devices.**
+**Team lead of three: built the 65-endpoint User API and React client, then hardened IDOR and privilege checks after the bootcamp.**
+
+<sub>Free-tier hosting — the first load may take up to a minute.</sub>
 
 </td>
 </tr>
@@ -106,11 +112,11 @@ Accessible IoT interface that helps visually impaired users operate existing hom
 
 <br/>
 
+- [AIDA](https://github.com/Seongwonp/AIDA) — label-error diagnosis research prototype for object detection; 29 error conditions, multi-seed reruns, and documented failed hypotheses
+- [Han-Flow](https://github.com/Seongwonp/han-flow) — HWPX/HWP desktop viewer with PDF export and source-preserving limited editing
 - [No-Click](https://github.com/Seongwonp/NoClick) — AI-assisted review analysis for promotional content and missing drawbacks
-- [HoneyRest](https://github.com/Seongwonp/honeyRest_user) — a booking platform split across user, host, and admin applications
-- [AIDA](https://github.com/Seongwonp/AIDA) — a training-data quality experiment using KITTI, YOLOv8, and 13 injected error conditions
-- [C Data Structures](https://github.com/Seongwonp/C_Data_Structures) — lists, stacks, queues, AVL trees, graphs, hash tables, tries, and sorting algorithms implemented in C
-- [Linux C System Programming](https://github.com/Seongwonp/C_LinuxSysprog) — files, processes, memory, signals, sockets, pthreads, and IPC
+- [Smart Parking](https://github.com/Seongwonp/SmartParking_System) — JSP/Servlet team project I led (4 people, 89 PRs integrated)
+- [C Data Structures](https://github.com/Seongwonp/C_Data_Structures) · [Linux C System Programming](https://github.com/Seongwonp/C_LinuxSysprog) — C foundations
 
 </details>
 
@@ -172,9 +178,9 @@ Accessible IoT interface that helps visually impaired users operate existing hom
 
 ```text
 studying       Information Security @ University of Suwon
-measuring      telemetry throughput, stored-data integrity, and query bottlenecks
-building       a deterministic HWPX rendering pipeline
-learning       where backend design meets security, IoT, and product operations
+presenting     Touch Bridge safety contracts at KIPS ACK 2026 (Nov 2026)
+competing      Embedded SW Contest finals — smart appliance track
+next           closing the MQTT ack gap in Telemetrix, then Engineer Information Processing cert
 ```
 
 <div align="center">
