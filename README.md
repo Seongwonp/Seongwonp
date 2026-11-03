@@ -54,6 +54,17 @@ Authentication, payments, async workers, caching, monitoring, recovery paths, an
 <tr>
 <td width="50%" valign="top">
 
+### [AI Exam Generator](https://seongwonp.github.io/AI-ExamGenerator/) · `Python`
+
+PDF-to-exam service in a live pilot, registered under an academy's business license. Built with an academy teacher: I handle most development and server operations and review the teacher's code before merging. I fix issues from real user feedback, and review logs weekly. [Visit service ↗](https://ai-examgenerator.co.kr/)
+
+`FastAPI` `Redis/RQ workers` `PostgreSQL`
+
+**A hold-and-ledger model with request-ID idempotency and bounded retries keeps failed jobs from double-deducting or silently dropping questions.**
+
+</td>
+<td width="50%" valign="top">
+
 ### [Telemetrix](https://github.com/Seongwonp/vehicle-telemetry-platform) · `Java`
 
 Vehicle telemetry pipeline: MQTT → Kafka → InfluxDB/PostgreSQL, with anomaly consumers and a DLQ.
@@ -65,32 +76,8 @@ Vehicle telemetry pipeline: MQTT → Kafka → InfluxDB/PostgreSQL, with anomaly
 <sub>Simulated data on a single host. Limits are documented in the repository.</sub>
 
 </td>
-<td width="50%" valign="top">
-
-### [AI Exam Generator](https://seongwonp.github.io/AI-ExamGenerator/) · `Python`
-
-PDF-to-exam service in a live pilot, registered under an academy's business license. Built with an academy teacher: I handle most development and server operations and review the teacher's code before merging. I fix issues from real user feedback, and review logs weekly. [Visit service ↗](https://ai-examgenerator.co.kr/)
-
-`FastAPI` `Redis/RQ workers` `PostgreSQL`
-
-**A hold-and-ledger model with request-ID idempotency and bounded retries keeps failed jobs from double-deducting or silently dropping questions.**
-
-</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [Touch Bridge](https://github.com/Seongwonp/touch_bridge) · `Flutter / FastAPI`
-
-Voice-driven input assistance that presses touch-panel appliance buttons for blind users (Hanium Dream-Up).
-
-`safety contracts` `fault injection` `BLE (ESP32)`
-
-**Conference paper accepted at KIPS ACK 2026 (poster, first author).** In 8 fault-injection scenarios, commands sent after an emergency stop dropped from 7–20 lines to 0.
-
-<sub>Measured at an app-side virtual transport layer; not yet verified on physical hardware.</sub>
-
-</td>
 <td width="50%" valign="top">
 
 ### [HoneyRest](https://github.com/Seongwonp/honeyRest_user) · `Java`
@@ -104,6 +91,19 @@ Lodging reservation platform split into user, host, and admin apps over one 30-t
 <sub>Free-tier hosting — the first load may take up to a minute.</sub>
 
 </td>
+<td width="50%" valign="top">
+
+### [SimpleLay](https://github.com/Seongwonp/Simplelay) · `Flutter / FastAPI`
+
+On-device smart home hub that learns habits from real usage, asks first, and automates only what the user hands over. Finalist, Embedded SW Contest (smart appliance track).
+
+`on-device AI` `Raspberry Pi` `ESP32`
+
+**Fine-tuned model: 30 → 38 correct on 42 unseen sentences. Gantry return error 0.05 mm on hardware.**
+
+<sub>Accurate physical button presses and the full closed loop are not yet verified.</sub>
+
+</td>
 </tr>
 </table>
 
@@ -112,6 +112,7 @@ Lodging reservation platform split into user, host, and admin apps over one 30-t
 
 <br/>
 
+- [Touch Bridge](https://github.com/Seongwonp/touch_bridge) — voice-driven appliance control for blind users (Hanium Dream-Up); conference paper accepted at KIPS ACK 2026 (poster, first author), measured at an app-side virtual transport layer
 - [AIDA](https://github.com/Seongwonp/AIDA) — label-error diagnosis research prototype for object detection; 29 error conditions, multi-seed reruns, and documented failed hypotheses
 - [Han-Flow](https://github.com/Seongwonp/han-flow) — HWPX/HWP desktop viewer with PDF export and source-preserving limited editing
 - [No-Click](https://github.com/Seongwonp/NoClick) — AI-assisted review analysis for promotional content and missing drawbacks
