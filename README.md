@@ -60,7 +60,7 @@ Vehicle telemetry pipeline: MQTT → Kafka → InfluxDB/PostgreSQL, with anomaly
 
 `Spring Boot` `Kafka` `fault injection`
 
-**Reproduced a 72.1% message loss during a 90-second broker outage, then confirmed zero loss under the same conditions after the fix.**
+**Measured a 72.1% message loss in one run of a 90-second broker outage, then observed zero loss in three repeat runs after the fix.**
 
 <sub>Simulated data on a single host. Limits are documented in the repository.</sub>
 
@@ -69,11 +69,11 @@ Vehicle telemetry pipeline: MQTT → Kafka → InfluxDB/PostgreSQL, with anomaly
 
 ### [AI Exam Generator](https://seongwonp.github.io/AI-ExamGenerator/) · `Python`
 
-PDF-to-exam service in a live pilot, registered under an academy's business license. I build and operate it solo, fix issues from real user feedback, and review logs weekly. [Visit service ↗](https://ai-examgenerator.co.kr/)
+PDF-to-exam service in a live pilot, registered under an academy's business license. Built with an academy teacher: I handle most development and server operations and review the teacher's code before merging. I fix issues from real user feedback, and review logs weekly. [Visit service ↗](https://ai-examgenerator.co.kr/)
 
 `FastAPI` `Redis/RQ workers` `PostgreSQL`
 
-**Idempotent credit ledger and bounded retries keep failed jobs from double-charging or silently dropping questions.**
+**A hold-and-ledger model with request-ID idempotency and bounded retries keeps failed jobs from double-deducting or silently dropping questions.**
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ Lodging reservation platform split into user, host, and admin apps over one 30-t
 - [AIDA](https://github.com/Seongwonp/AIDA) — label-error diagnosis research prototype for object detection; 29 error conditions, multi-seed reruns, and documented failed hypotheses
 - [Han-Flow](https://github.com/Seongwonp/han-flow) — HWPX/HWP desktop viewer with PDF export and source-preserving limited editing
 - [No-Click](https://github.com/Seongwonp/NoClick) — AI-assisted review analysis for promotional content and missing drawbacks
-- [Smart Parking](https://github.com/Seongwonp/SmartParking_System) — JSP/Servlet team project I led (4 people, 89 PRs integrated)
+- [Smart Parking](https://github.com/Seongwonp/SmartParking_System) — JSP/Servlet team project I led (2 active developers in a team of 4)
 - [C Data Structures](https://github.com/Seongwonp/C_Data_Structures) · [Linux C System Programming](https://github.com/Seongwonp/C_LinuxSysprog) — C foundations
 
 </details>
@@ -180,12 +180,10 @@ Lodging reservation platform split into user, host, and admin apps over one 30-t
 studying       Information Security @ University of Suwon
 presenting     Touch Bridge safety contracts at KIPS ACK 2026 (Nov 2026)
 competing      Embedded SW Contest finals — smart appliance track
-next           closing the MQTT ack gap in Telemetrix, then Engineer Information Processing cert
+next           real-vehicle measurement with an OBD-II dongle in Telemetrix, then Engineer Information Processing cert
 ```
 
 <div align="center">
-
-### Good systems are not just built. They are observed.
 
 If you want to talk about backend systems, strange bugs, or an ambitious project:
 
